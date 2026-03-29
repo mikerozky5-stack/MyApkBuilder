@@ -1,0 +1,18 @@
+{
+  "name": "com-mab-app",
+  "displayName": "MyApkBuilder",
+  "version": "1.0.0",
+  "description": "Generated Cordova App",
+  "main": "index.js",
+  "scripts": {
+    "build": "cordova build android --release"
+  },
+  "dependencies": {
+    "cordova-android": "^12.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
